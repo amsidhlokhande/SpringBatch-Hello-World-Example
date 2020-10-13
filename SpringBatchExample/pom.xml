@@ -13,7 +13,7 @@
 		<spring.version>3.2.2.RELEASE</spring.version>
 		<spring.batch.version>2.2.0.RELEASE</spring.batch.version>
 		<oracle.database.version>11.2.0.3</oracle.database.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<dependencies>
